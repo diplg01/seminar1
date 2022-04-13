@@ -1,0 +1,15 @@
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.csproj.AssemblyReference.cache
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.AssemblyInfoInputs.cache
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.AssemblyInfo.cs
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.csproj.CoreCompileInputs.cache
+/Users/shevchenko/Desktop/seminar_1/examples_1/bin/Debug/net6.0/examples_1
+/Users/shevchenko/Desktop/seminar_1/examples_1/bin/Debug/net6.0/examples_1.deps.json
+/Users/shevchenko/Desktop/seminar_1/examples_1/bin/Debug/net6.0/examples_1.runtimeconfig.json
+/Users/shevchenko/Desktop/seminar_1/examples_1/bin/Debug/net6.0/examples_1.dll
+/Users/shevchenko/Desktop/seminar_1/examples_1/bin/Debug/net6.0/examples_1.pdb
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.dll
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/refint/examples_1.dll
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.pdb
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/examples_1.genruntimeconfig.cache
+/Users/shevchenko/Desktop/seminar_1/examples_1/obj/Debug/net6.0/ref/examples_1.dll
